@@ -1,0 +1,16 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "E_Pogodin",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
